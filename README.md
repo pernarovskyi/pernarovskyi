@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yura Pernarovskyi
 - 👀 Interested in HTML, CSS, JavaScript, C#, .NET
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript and React.
 - 📫 How to reach me: j.pernarovskyi@gmail.com
 
 <!---
